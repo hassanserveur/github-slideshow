@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-my first text in this file 
+ i repaced this line
 Use the left arrow to go back!
